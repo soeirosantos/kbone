@@ -14,5 +14,6 @@ kbone/.classpath
 kbone/.groovy
 kbone/.project
 kbone/caldecott.log
+kbone/.link_to_grails_plugins
 *.war
 *.log
