@@ -1,4 +1,6 @@
-kbone
-=====
+Cap 1) Ambiente + Criação do Projeto
+------------------------------------
 
-web application for share and manage knowledge
+_Premissa: ambiente configurado (python + virtualenv + django)_
+
+1. Crie o projeto djangodjango-admin.py startproject profiles
